@@ -7,21 +7,18 @@ public:
         
         while(l<=r){
             int mid=(l+(r-l)/2);
-            if(nums[mid]>target){
-                
+            if(nums[mid]<target){
+                l=mid+1;
+            }         
+            else{
                 r=mid-1;
             }
-            
-            else{
-                l=mid+1;
-            }
-        }
-        
-        while(r>=0){
-            if(nums[r]!=target){
+        }   
+        while(l<nums.size()){
+            if(nums[l]!=target){
                 break;
             }
-            op.insert(op.begin(),r--);
+            op.push_back(l++);
         }
         return op;
     }
