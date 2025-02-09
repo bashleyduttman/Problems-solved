@@ -42,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
+| [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Matrix
 |  |
@@ -61,4 +62,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
+## Hash Table
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
+## Counting
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
