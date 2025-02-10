@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -36,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Array
 |  |
 | ------- |
@@ -74,4 +77,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 <!---LeetCode Topics End-->
