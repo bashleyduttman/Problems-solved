@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
+| [1916-find-center-of-star-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/1916-find-center-of-star-graph) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
