@@ -44,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [1916-find-center-of-star-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/1916-find-center-of-star-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
@@ -56,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Matrix
 |  |
@@ -63,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +106,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
+| [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
