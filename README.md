@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
+| [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -43,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
+| [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/1916-find-center-of-star-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -113,4 +115,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
