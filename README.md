@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
@@ -107,4 +109,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 <!---LeetCode Topics End-->
