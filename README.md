@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Array
 |  |
@@ -124,8 +125,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 <!---LeetCode Topics End-->
