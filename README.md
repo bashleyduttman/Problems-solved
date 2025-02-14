@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/1916-find-center-of-star-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/bashleyduttman/Problems-solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -85,15 +86,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Sorting
 |  |
 | ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Hash Table
 |  |
