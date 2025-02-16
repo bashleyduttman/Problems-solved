@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -156,4 +157,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
