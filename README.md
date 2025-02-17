@@ -104,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
+| [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 ## Math
 |  |
@@ -113,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
@@ -160,5 +162,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
