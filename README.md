@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
@@ -108,6 +109,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -135,6 +137,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -190,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
