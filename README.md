@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/bashleyduttman/Problems-solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/bashleyduttman/Problems-solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/bashleyduttman/Problems-solved/tree/master/2793-count-the-number-of-complete-components) |
@@ -58,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/bashleyduttman/Problems-solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -80,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Matrix
 |  |
@@ -143,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bashleyduttman/Problems-solved/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Topological Sort
 |  |
