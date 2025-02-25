@@ -77,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
@@ -125,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
@@ -158,6 +160,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Biconnected Component
 |  |
@@ -180,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
