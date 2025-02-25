@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
+| [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
@@ -33,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
+| [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -46,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/bashleyduttman/Problems-solved/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -55,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0871-keys-and-rooms](https://github.com/bashleyduttman/Problems-solved/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
+| [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [1300-critical-connections-in-a-network](https://github.com/bashleyduttman/Problems-solved/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/1916-find-center-of-star-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -73,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -118,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
