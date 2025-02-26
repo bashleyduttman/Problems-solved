@@ -132,6 +132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
@@ -225,4 +226,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
