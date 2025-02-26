@@ -136,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Counting
 |  |
 | ------- |
@@ -230,8 +231,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
