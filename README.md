@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -207,6 +208,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Tree
 |  |
@@ -219,4 +221,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
