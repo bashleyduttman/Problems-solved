@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1121-partition-array-for-maximum-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1121-partition-array-for-maximum-sum) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Biconnected Component
 |  |
@@ -208,6 +210,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## String
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Stack
 |  |
 | ------- |
