@@ -125,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -215,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1170-shortest-common-supersequence) |
@@ -246,6 +248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -253,4 +256,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
