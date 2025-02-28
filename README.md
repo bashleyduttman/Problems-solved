@@ -177,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1121-partition-array-for-maximum-sum) |
+| [1170-shortest-common-supersequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1170-shortest-common-supersequence) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -216,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1170-shortest-common-supersequence) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
