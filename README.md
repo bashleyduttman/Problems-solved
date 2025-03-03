@@ -90,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2035-count-sub-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bashleyduttman/Problems-solved/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
@@ -268,4 +269,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bashleyduttman/Problems-solved/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bashleyduttman/Problems-solved/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
