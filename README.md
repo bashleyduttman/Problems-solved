@@ -224,6 +224,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1170-shortest-common-supersequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1170-shortest-common-supersequence) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bashleyduttman/Problems-solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bashleyduttman/Problems-solved/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Stack
 |  |
@@ -262,6 +263,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bashleyduttman/Problems-solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Rolling Hash
 |  |
 | ------- |
