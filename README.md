@@ -83,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0960-minimize-malware-spread](https://github.com/bashleyduttman/Problems-solved/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1121-partition-array-for-maximum-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1121-partition-array-for-maximum-sum) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/bashleyduttman/Problems-solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/bashleyduttman/Problems-solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
@@ -155,6 +156,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/bashleyduttman/Problems-solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Shortest Path
 |  |
