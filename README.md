@@ -97,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2690-house-robber-iv](https://github.com/bashleyduttman/Problems-solved/tree/master/2690-house-robber-iv) |
 | [3483-alternating-groups-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/bashleyduttman/Problems-solved/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/bashleyduttman/Problems-solved/tree/master/2690-house-robber-iv) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Shortest Path
 |  |
