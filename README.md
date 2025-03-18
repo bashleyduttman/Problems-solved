@@ -95,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/bashleyduttman/Problems-solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/bashleyduttman/Problems-solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bashleyduttman/Problems-solved/tree/master/2472-build-a-matrix-with-conditions) |
+| [2478-longest-nice-subarray](https://github.com/bashleyduttman/Problems-solved/tree/master/2478-longest-nice-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2690-house-robber-iv](https://github.com/bashleyduttman/Problems-solved/tree/master/2690-house-robber-iv) |
@@ -258,6 +259,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
+| [2478-longest-nice-subarray](https://github.com/bashleyduttman/Problems-solved/tree/master/2478-longest-nice-subarray) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -269,6 +271,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bashleyduttman/Problems-solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/bashleyduttman/Problems-solved/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3483-alternating-groups-ii) |
 ## Rolling Hash
 |  |
