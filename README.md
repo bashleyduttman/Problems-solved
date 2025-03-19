@@ -99,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2690-house-robber-iv](https://github.com/bashleyduttman/Problems-solved/tree/master/2690-house-robber-iv) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bashleyduttman/Problems-solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
@@ -213,6 +214,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/bashleyduttman/Problems-solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bashleyduttman/Problems-solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [0795-k-th-symbol-in-grammar](https://github.com/bashleyduttman/Problems-solved/tree/master/0795-k-th-symbol-in-grammar) |
 | [2478-longest-nice-subarray](https://github.com/bashleyduttman/Problems-solved/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bashleyduttman/Problems-solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -272,6 +275,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bashleyduttman/Problems-solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/bashleyduttman/Problems-solved/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bashleyduttman/Problems-solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3483-alternating-groups-ii) |
 ## Rolling Hash
 |  |
@@ -289,4 +293,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bashleyduttman/Problems-solved/tree/master/2265-partition-array-according-to-given-pivot) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bashleyduttman/Problems-solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
