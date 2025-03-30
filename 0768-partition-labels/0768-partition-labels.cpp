@@ -13,7 +13,6 @@ public:
         int maxTime=0;
         vector<int>ans;
        while(r<n){
-       
             if(mpp[s[r]]>maxTime){
                 maxTime=mpp[s[r]]-1;
             }
@@ -23,7 +22,6 @@ public:
                 maxTime=0;
             }
             r++;
-
         }
         return ans;
     }
