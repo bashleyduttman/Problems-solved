@@ -114,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/bashleyduttman/Problems-solved/tree/master/0768-partition-labels) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -133,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0508-most-frequent-subtree-sum) |
+| [0768-partition-labels](https://github.com/bashleyduttman/Problems-solved/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -227,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bashleyduttman/Problems-solved/tree/master/0187-repeated-dna-sequences) |
+| [0768-partition-labels](https://github.com/bashleyduttman/Problems-solved/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bashleyduttman/Problems-solved/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1170-shortest-common-supersequence) |
@@ -288,6 +291,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/bashleyduttman/Problems-solved/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bashleyduttman/Problems-solved/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
