@@ -99,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2564-most-profitable-path-in-a-tree](https://github.com/bashleyduttman/Problems-solved/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/bashleyduttman/Problems-solved/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2690-house-robber-iv](https://github.com/bashleyduttman/Problems-solved/tree/master/2690-house-robber-iv) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bashleyduttman/Problems-solved/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/3483-alternating-groups-ii) |
 ## Matrix
