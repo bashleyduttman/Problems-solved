@@ -306,4 +306,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/bashleyduttman/Problems-solved/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1801-average-time-of-process-per-machine](https://github.com/bashleyduttman/Problems-solved/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
