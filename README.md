@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/bashleyduttman/Problems-solved/tree/master/0135-candy) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -117,6 +118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/bashleyduttman/Problems-solved/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/bashleyduttman/Problems-solved/tree/master/0768-partition-labels) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/bashleyduttman/Problems-solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bashleyduttman/Problems-solved/tree/master/2379-maximum-total-importance-of-roads) |
