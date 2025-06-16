@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/bashleyduttman/Problems-solved/tree/master/0135-candy) |
@@ -109,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
 | [0971-shortest-bridge](https://github.com/bashleyduttman/Problems-solved/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/bashleyduttman/Problems-solved/tree/master/1380-number-of-closed-islands) |
@@ -196,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1121-partition-array-for-maximum-sum) |
