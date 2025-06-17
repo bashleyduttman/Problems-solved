@@ -78,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0084-largest-rectangle-in-histogram](https://github.com/bashleyduttman/Problems-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/bashleyduttman/Problems-solved/tree/master/0135-candy) |
+| [0494-target-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0494-target-sum) |
 | [0833-bus-routes](https://github.com/bashleyduttman/Problems-solved/tree/master/0833-bus-routes) |
 | [0881-loud-and-rich](https://github.com/bashleyduttman/Problems-solved/tree/master/0881-loud-and-rich) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -200,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0063-unique-paths-ii](https://github.com/bashleyduttman/Problems-solved/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/bashleyduttman/Problems-solved/tree/master/0085-maximal-rectangle) |
+| [0494-target-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bashleyduttman/Problems-solved/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1170-shortest-common-supersequence) |
@@ -233,6 +235,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/bashleyduttman/Problems-solved/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/bashleyduttman/Problems-solved/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bashleyduttman/Problems-solved/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/bashleyduttman/Problems-solved/tree/master/2107-find-unique-binary-string) |
