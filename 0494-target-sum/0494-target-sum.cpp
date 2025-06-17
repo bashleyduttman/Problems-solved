@@ -1,18 +1,23 @@
 class Solution {
 public:
- unordered_map<int,unordered_map<int,int>>dp;
-
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        return ways(nums,0,target,n,0);
+        int sum = 0;
+    for (int num : nums) sum += num;
+
+    if ( (sum + target) % 2 == 1 ) return 0;
+    int newTarget = (sum + target) / 2;
+
+    if (newTarget < 0) return 0;
+
+    vector<int> dp(newTarget + 1, 0);
+    dp[0] = 1;
+
+    for (int num : nums) {
+        for (int j = newTarget; j >= num; j--) {
+            dp[j] += dp[j - num];
+        }
     }
-    int ways(vector<int>&nums,int ind,int target,int n,int temp){
-        if(ind>=n ){
-            return temp==target?1:0;
-        }
-        if(dp[ind].find(temp)!=dp[ind].end()){
-            return dp[ind][temp];
-        }
-        return dp[ind][temp]=ways(nums,ind+1,target,n,temp+nums[ind])+ways(nums,ind+1,target,n,temp-nums[ind]);
+
+    return dp[newTarget];
     }
 };
